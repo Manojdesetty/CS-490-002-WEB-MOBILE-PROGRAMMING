@@ -1,6 +1,8 @@
-***welcome to Web and mobile programming .***
+***Welcome to Web and mobile programming .***
+
 This is ICP 1 Repository .
 In this ICP we are learnt how to use github desktop and webstorm IDE .
+
 1. At first installed webstorm IDE.
 2. created a repository in github account and cloned it to local machine .
 3. In next step created a source and documentation folder in local and cloned it to remote github.

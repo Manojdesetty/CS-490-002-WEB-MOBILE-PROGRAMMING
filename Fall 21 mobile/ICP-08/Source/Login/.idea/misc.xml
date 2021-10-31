@@ -6,8 +6,8 @@
         <entry key="app/src/main/res/drawable/button.xml" value="0.19074074074074074" />
         <entry key="app/src/main/res/drawable/button2.xml" value="0.19074074074074074" />
         <entry key="app/src/main/res/drawable/gradient.xml" value="0.321025641025641" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15893045955064738" />
-        <entry key="app/src/main/res/layout/new_activity.xml" value="0.18083457505943268" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/new_activity.xml" value="0.335" />
       </map>
     </option>
   </component>
